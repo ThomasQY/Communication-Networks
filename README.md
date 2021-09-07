@@ -1,4 +1,4 @@
-# Networking-protocols
+# Communication Networks
 Work done for CS_438 Communication netwoks at UIUC
 * MP1: Simple client and server supporting HTTP protocol
 * MP2: A TCP-like reliable transport protocol with the following properties:
