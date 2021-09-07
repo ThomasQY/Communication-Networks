@@ -2,7 +2,7 @@
 Work done for CS_438 Communication netwoks at UIUC
 * MP1: Simple client and server supporting HTTP protocol
 * MP2: A TCP-like reliable transport protocol with the following properties:
-  - ustilize UDP, some functions are build around it to ensure data are reliably transported between sender and receiver
+  - ustilize UDP, some functions are build around it to ensure reliable transportation
   - Start by only sending a small amount of data to avoid crapy connection/congestion
   - Build up transmitting speed if connection between sender and receiver looks promising
   - After some threashold is reached, slow down the growth rate of transmitting speed to avoid overflooding the network
