@@ -7,4 +7,4 @@ Work done for CS_438 Communication netwoks at UIUC
   - Build up transmitting speed if connection between sender and receiver looks promising
   - After some threashold is reached, slow down the growth rate of transmitting speed to avoid overflooding the network
   - Slows down again if there is a lost of packet or the order of sending/receiving is not in agreeemnt
-* MP3: 2 Network Routing protocol: Link state and Distance Vector
+* MP3: 2 Network Routing protocols: Link state and Distance Vector
